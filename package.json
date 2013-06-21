@@ -1,0 +1,46 @@
+{
+  "name": "grunt-gss-compiler",
+  "description": "Compiles .gss files into AST JSON for running with the GSS engine",
+  "version": "0.0.1",
+  "homepage": "http://gridstylesheets.org/docs/grunt/",
+  "author": {
+    "name": "Henri Bergius",
+    "email": "henri.bergius@iki.fi",
+    "url": "http://bergie.iki.fi"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/the-gss/grunt-gss-compiler.git"
+  },
+  "bugs": {
+    "url": "https://github.com/the-gss/grunt-gss-compiler/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://gridstylesheets.org/docs/grunt//blob/master/LICENSE-MIT"
+    }
+  ],
+  "main": "Gruntfile.js",
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "scripts": {
+    "test": "grunt test"
+  },
+  "devDependencies": {
+    "grunt-contrib-jshint": "~0.1.1",
+    "grunt-contrib-clean": "~0.4.0",
+    "grunt-contrib-nodeunit": "~0.1.2",
+    "grunt": "~0.4.1"
+  },
+  "peerDependencies": {
+    "grunt": "~0.4.1"
+  },
+  "keywords": [
+    "gruntplugin"
+  ],
+  "dependencies": {
+    "gss-compiler": "0.0.1"
+  }
+}
