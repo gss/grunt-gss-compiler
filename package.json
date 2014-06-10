@@ -18,7 +18,7 @@
   "licenses": [
     {
       "type": "MIT",
-      "url": "http://gridstylesheets.org/docs/grunt//blob/master/LICENSE-MIT"
+      "url": "https://github.com/the-gss/grunt-gss-compiler/blob/master/LICENSE-MIT"
     }
   ],
   "main": "Gruntfile.js",
