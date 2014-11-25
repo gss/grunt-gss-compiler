@@ -1,4 +1,4 @@
-# grunt-gss-compiler [![Build Status](https://travis-ci.org/the-gss/grunt-gss-compiler.png?branch=master)](https://travis-ci.org/the-gss/grunt-gss-compiler)
+# grunt-gss-compiler [![Build Status](https://travis-ci.org/gss/grunt-gss-compiler.png?branch=master)](https://travis-ci.org/gss/grunt-gss-compiler)
 
 > Compiles .gss files into AST JSON for running with the [GSS engine](http://gridstylesheets.org/).
 
